@@ -1,0 +1,2 @@
+class Gorbyoyo < ApplicationRecord
+end
