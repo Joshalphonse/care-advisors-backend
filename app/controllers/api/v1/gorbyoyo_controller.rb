@@ -4,7 +4,10 @@ class Api::V1::GorbyoyoController < ApplicationController
       render json: @gorbyoyos
   end
 
-
+def show
+  @gorbyoyo =Gorbyoyo.all
+  render json: @gorbyoyo
+end
 
 
 
