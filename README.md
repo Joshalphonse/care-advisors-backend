@@ -1,25 +1,21 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+## Backend how to
 
-Things you may want to cover:
+### Rails
 
-* Ruby version
+The backend was created with ruby on rails with a postgres database.[Download Postgres](https://www.postgresql.org/download/).
 
-* System dependencies
+#### 1. To start make sure to download Ruby while in terminal.
 
-* Configuration
+#### 2. Clone the backend repository to your desired folder.
 
-* Database creation
+#### 3. Change the directory to the folder of the cloned backend repository.
 
-* Database initialization
+#### 4. type 'bundle install' to download all the ruby gems.
 
-* How to run the test suite
+#### 5. type 'rails db:create' to create the postgresql database
 
-* Services (job queues, cache servers, search engines, etc.)
+#### 6. type 'rails s' to start the server
 
-* Deployment instructions
-
-* ...
 # care-advisors-backend
