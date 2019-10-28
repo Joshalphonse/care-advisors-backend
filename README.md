@@ -16,6 +16,10 @@ The backend was created with ruby on rails with a postgres database.[Download Po
 
 #### 5. type 'rails db:create' to create the postgresql database
 
+#### 6. type 'rails db:migrate' for migration
+
+#### 6. type 'rails db:seed' to seed the database very important
+
 #### 6. type 'rails s' to start the server
 
 # care-advisors-backend
